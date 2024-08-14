@@ -1,0 +1,18 @@
+{
+    "name": "express-form-validation-app",
+    "version": "1.0.0",
+    "description": "A simple Express application for form validation with phone number verification.",
+    "main": "phone.js",
+    "scripts": {
+      "start": "node phone.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2",
+      "body-parser": "^1.20.2",
+      "path": "^0.12.7"
+    },
+    "devDependencies": {},
+    "author": "",
+    "license": "ISC"
+  }
+  
